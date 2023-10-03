@@ -1,6 +1,7 @@
 # Quick-Notes-SQL
 <h1> Some Imp Questions</h1>
 <h3>Inner Join Vs Natural Join Vs Cross Join</h3>
+
 <li>In inner join we have to specifie colums and condition on which we want to join (same value)</li>
 <li>In natural join we don't need to specify column or conditon it merge same colum with same value in both the table</li>
 <li>In Cross join every Row of 1st table is merge with every Row of 2nd table</li>
@@ -8,6 +9,14 @@
 <br>
 <a href="https://www.geeksforgeeks.org/difference-between-natural-join-and-cross-join-in-sql/">GFG Article On Natural Vs Cross Join</a>
 <br>
+
+<h3>What is the difference between the SQL statements DELETE, TRUNCATE and DROP?</h3>
+<li>DELETE: DML Commnad, we can delete specifice row, Can be rollback</li>
+<li>TRUNCATE: DDL Command, We can delete every Row in one go, Can't rollback</li>
+<li>Drop: DDL commmand, We can Drop(delete) whole structure,schema in one go, can't rollback</li>
+<a href="https://www.geeksforgeeks.org/difference-between-delete-drop-and-truncate/"> GFG Article </a>
+<br>
+
 
 <h1>2nd Highest salary</h1>
 
