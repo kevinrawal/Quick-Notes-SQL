@@ -46,6 +46,9 @@
 <h4><a href="https://www.youtube.com/watch?v=Ua08uVgsk4k">Secondary Index</a></h4>
 <br>
 
+<h1><a href="https://www.javatpoint.com/dbms-first-normal-form">Normalization</h1>
+  <br>
+  
 <h1>2nd Highest salary</h1>
 
 ```
