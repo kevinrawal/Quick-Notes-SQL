@@ -10,6 +10,13 @@
 <a href="https://www.geeksforgeeks.org/difference-between-natural-join-and-cross-join-in-sql/">GFG Article On Natural Vs Cross Join</a>
 <br>
 
+<h3>JOINS in SQL</h3>
+<img width="334" alt="image" src="https://github.com/kevinrawal/Quick-Notes-SQL/assets/84058124/7ad9131e-fd04-40fb-9594-297360984b1a">
+<li>FUll join is combination of left and right join</li>
+<li>In cross join there is no null never, but in full join we can have NULL values as well, <a href="https://www.tutorialspoint.com/sql/sql-full-joins.htm">FULL JOIN article</a></li>
+<li>FULL join and Natural Join is Different</li>
+<br>
+
 <h3>What is the difference between the SQL statements DELETE, TRUNCATE and DROP?</h3>
 <li>DELETE: DML Commnad, we can delete specifice row, Can be rollback</li>
 <li>TRUNCATE: DDL Command, We can delete every Row in one go, Can't rollback</li>
@@ -17,7 +24,11 @@
 <a href="https://www.geeksforgeeks.org/difference-between-delete-drop-and-truncate/"> GFG Article </a>
 <br>
 
-
+<h3>Aggregate and Scalar functions</h3>
+<li>Both the function return single value</li>
+<li>Aggregate function: used to perform operation on values of column</li>
+<li>Scalar function: used to perform on user input</li>
+<a href="https://www.geeksforgeeks.org/sql-functions-aggregate-scalar-functions/"> LINK TO READ </a>
 <h1>2nd Highest salary</h1>
 
 ```
