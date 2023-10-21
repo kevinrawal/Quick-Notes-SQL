@@ -48,7 +48,10 @@
 
 <h1><a href="https://www.javatpoint.com/dbms-first-normal-form">Normalization</h1>
   <br>
-  
+<h1>Keys in DBMS</h1>
+  <li>super key:set of attributes which uniquely identify tuple,vvalue can be NULL </li>
+  <li>candidate key: minimum set of attributes which uniquely identify tuple, value can be NULL</li>
+  <li>Primary key: minimum set of attribute which uniquly identify tuple, value can not be NULL</li>
 <h1>2nd Highest salary</h1>
 
 ```
