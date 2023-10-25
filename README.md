@@ -67,6 +67,9 @@ FROM employees
 WHERE salary != (SELECT MAX(salary) FROM employees)
 ```
 
+```
+SELECT Salary FROM (SELECT Salary FROM Employee ORDER BY salary DESC LIMIT 2) AS Emp ORDER BY salary LIMIT 1
+```
 <h1>Nth Highest salary</h1>
 
 ```
