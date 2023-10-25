@@ -1,5 +1,12 @@
 # Quick-Notes-SQL
 <h1> Some Imp Questions</h1>
+<h3><a href="https://www.geeksforgeeks.org/difference-between-file-system-and-dbms/">Difference between DBMS and File system</a></h3>
+<h3><a href="https://www.javatpoint.com/acid-properties-in-dbms">ACID Properties</a></h3>
+<li>Atomicity: operation on data should perform or should not perform at all</li>
+<li>Consistancy:  if a change in the database is made, it should remain preserved always.</li>
+<li>Isolation: In DBMS, Isolation is the property of a database where no data should affect the other one and may occur concurrently, operation on one database should begin when the operation on the first database gets complete</li>
+<li>Durability: Durability ensures the permanency of something</li>
+
 <h3>Inner Join Vs Natural Join Vs Cross Join</h3>
 
 <li>In inner join we have to specifie colums and condition on which we want to join (same value)</li>
