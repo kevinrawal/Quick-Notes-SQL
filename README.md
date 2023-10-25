@@ -44,9 +44,9 @@
 <h4><a href="https://www.youtube.com/watch?v=E--yzX05_k8">Video to watch</a></h4>
 
 <img width="386" alt="image" src="https://github.com/kevinrawal/Quick-Notes-SQL/assets/84058124/a17868d7-5607-4f84-a53c-491b8522c5db">
-<li>Primary Index: Unique value + Ordered Value</li>
-<li>Cluster Index: Non-Unique Value(Multiple) + Ordered value , concept of block handler</li>
-<li>Secondary Index: (non-unique or unique) value + unordered value</li>
+<li>Primary Index: Unique value + Ordered Value, sparse</li>
+<li>Cluster Index: Non-Unique Value(Multiple) + Ordered value , concept of block handler, sparse</li>
+<li>Secondary Index: (non-unique or unique) value + unordered value , dense</li>
 
 <h4><a href="https://www.youtube.com/watch?v=4E-MGnjMhRw">Primary Index</a></h4>
 <h4><a href="https://www.youtube.com/watch?v=UpJ9ICmzaAM">Clustered Index</a></h4>
